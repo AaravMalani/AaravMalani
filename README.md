@@ -1,3 +1,4 @@
+<p id="readme-top"></p>
 
 ## About Me
 I'm a fifteen year old independent (as should be) developer fluent in numerous different languages residing in the soon-to-be most populated country.
@@ -38,6 +39,9 @@ I'm a fifteen year old independent (as should be) developer fluent in numerous d
 [![Discord][discord-shield]][discord-url]
 [![Email][gmail-shield]][gmail-url]
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+![Ranking](https://github-readme-stats.vercel.app/api?username=AaravMalani&theme=blue-green)
+![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AaravMalani&theme=blue-green)
 
 [linkedin-shield]: https://img.shields.io/badge/LinkedIn-335?style=for-the-badge&logo=linkedin
 [linkedin-url]: https://linkedin.com/in/aaravm

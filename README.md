@@ -58,7 +58,7 @@ I'm a fifteen year old independent (as should be) developer fluent in numerous d
 - [frange](https://github.com/AaravMalani/frange) `[Python]` - An alternative to range with support for floats
 
 ## Contributed more than a single PR to
-- [Basic Math Operations](https://github.com/avighnac/basic-math-operations) `[C/C++/Assembly]` - A biginteger library written in Assembly and C.
+- [Basic Math Operations](https://github.com/avighnac/basic_math_operations) `[C/C++/Assembly]` - A biginteger library written in Assembly and C.
 - [Arithmetica](https://github.com/avighnac/arithmetica) `[C/C++]` - A general purpose math library with primarily arithmetic functions.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>

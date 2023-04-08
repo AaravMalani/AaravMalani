@@ -14,11 +14,16 @@ I'm a fifteen year old independent (as should be) developer fluent in numerous d
       - [x] Forge Mods
       - [ ] Client Development via MCP
 - [ ] **C/C++**
+    - [x] C
+    - [ ] C++
 - [ ] **Assembly**
-    - [x] 16-Bit BIOS Operating System
-    - [x] 32-Bit Protected Mode Assembly
-    - [ ] 64-Bit Long Mode
-    - [ ] ELF and PE
+    - [x] x86
+        - [x] 16-Bit BIOS Operating System
+        - [x] 32-Bit Protected Mode Assembly
+        - [ ] 64-Bit Long Mode
+        - [ ] ELF and PE
+    - [ ] ARM
+    - [ ] RISC-V
 - [x] **HTML/CSS**
 - [x] **JS**
     - [x] Discord.js
@@ -29,7 +34,33 @@ I'm a fifteen year old independent (as should be) developer fluent in numerous d
     - [ ] Angular.js
     - [x] HTML `<script>`
     - [x] Typescript + ES6
-    
+    - [x] Node.JS
+- [x] **Operating Systems**
+    - [x] Windows
+    - [ ] Mac 
+    - [x] Linux
+        - [x] Debian
+            - [x] Ubuntu
+            - [x] Kali Linux
+        - [x] CentOS
+        - [ ] RedHat/Fedora
+   
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## Projects
+- [Constant Pool Editor](https://github.com/AaravMalani/ConstantPool-Editor) `[Python]`- A tool to edit the constant pool of a Java class
+- [AKBS-Org](https://github.com/akbs-org) - A container organisation for AKBS
+    - [AKBS](https://github.com/akbs-org/akbs) `[Python]` - A super quick build system for C, C++ and ASM
+    - [AKBS VSCode Extension](https://github.com/akbs-org/akbs-vscode) `[Javascript]` - A VSCode extension for AKBS scripts
+    - [AKBS Docs](https://github.com/akbs-org/akbs-docs) `[HTML]` - A repository with the [documentation](https://akbs-org.github.io/akbs-docs) for AKBS
+- [PlugAPI](https://github.com/AaravMalani/PlugAPI) `[Python]` - A lightweight, speedy HTTP(S) framework
+- [libjson](https://github.com/AaravMalani/libjson) `[C]` - A light-weight feature complete JSON parser in C
+- [frange](https://github.com/AaravMalani/frange) `[Python]` - An alternative to range with support for floats
+
+## Contributed more than a single PR to
+- [Basic Math Operations](https://github.com/avighnac/basic-math-operations) `[C/C++/Assembly]` - A biginteger library written in Assembly and C.
+- [Arithmetica](https://github.com/avighnac/arithmetica) `[C/C++]` - A general purpose math library with primarily arithmetic functions.
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## Contact Me

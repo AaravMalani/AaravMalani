@@ -56,8 +56,9 @@ I'm a fifteen year old independent (as should be) developer fluent in numerous d
 - [PlugAPI](https://github.com/AaravMalani/PlugAPI) `[Python]` - A lightweight, speedy HTTP(S) framework
 - [libjson](https://github.com/AaravMalani/libjson) `[C]` - A light-weight feature complete JSON parser in C
 - [frange](https://github.com/AaravMalani/frange) `[Python]` - An alternative to range with support for floats
+- [htmlparse](https://github.com/AaravMalani/htmlparse) `[Python]` - A basic HTML parser in Python
 
-## Contributed more than a single PR to
+## Contributed to
 - [Basic Math Operations](https://github.com/avighnac/basic_math_operations) `[C/C++/Assembly]` - A biginteger library written in Assembly and C.
 - [Arithmetica](https://github.com/avighnac/arithmetica) `[C/C++]` - A general purpose math library with primarily arithmetic functions.
 

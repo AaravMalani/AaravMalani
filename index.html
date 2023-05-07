@@ -1,0 +1,270 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Aarav Malani | Home</title>
+    <meta name="description" content="Portfolio of a fifteen year old independent Indian developer fluent in numerous different languages.">
+    <link rel="stylesheet" href="style.css" />
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link rel="icon" type="image/png" href="logo.png">
+    <link
+        href="https://fonts.googleapis.com/css2?family=Bruno+Ace&family=Montserrat&family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@38,300,0,0&family=ABeeZee&display=swap"
+        rel="stylesheet">
+
+</head>
+
+<body>
+    <nav id="big-screen-nav">
+        <a href="#pt1">HOME</a>
+        <a href="#pt2">LANGUAGES</a>
+        <a href="#pt3">PROJECTS</a>
+        <a href="#pt4">CONTACT</a>
+
+    </nav>
+
+    <nav id="small-screen-nav">
+        <span class="material-symbols-outlined" style="color: white" onclick="oncick()">
+            menu
+        </span>
+        <div></div>
+    </nav>
+    <div id="small-screen-menu">
+        <a href="#pt1">HOME</a>
+        <a href="#pt2">LANGUAGES</a>
+        <a href="#pt3">PROJECTS</a>
+        <a href="#pt4">CONTACT</a>
+        <div id="small-screen-menu-shut" class="material-symbols-outlined" onclick="oncick()">close</div>
+    </div>
+
+
+    <div id="main-article">
+        <main>
+            <h1 id="main-h1" onmouseover="onhover(this, 'alani')" onfocus="onhover(this, 'alani')" tabindex="0">Aarav M</h1>
+            <p id="main-p">A 15 year old independent developer</p>
+            <a href="#pt2" id="main-btn-link"><button id="main-btn" onmouseover="onhover(this, '...')"
+                    onfocus="onhover(this, '...')">Continue</button></a>
+        </main>
+
+    </div>
+    <div id="pt2">
+        <div id="timeline">
+            <div class="timeline-circle">
+                <img src="htmllogo.png" alt="HTML Logo"/>
+                <div class="timeline-circle-inside">
+                    <h1>2014</h1>
+                    <p>
+                        My first experience with a language was at age 6-7 when I stumbled into a room with my
+                        father<br />
+                        <br />
+                        I made a basic website with my father on an outdated version of Adobe Dreamweaver using HTML4
+                        (both my father and I have evolved from that) and my passion for anything technological was
+                        fueled.
+                    </p>
+                </div>
+            </div>
+            <div class="timeline-circle">
+                <img src="pylogo.svg" alt="Python Logo"/>
+                <div class="timeline-circle-inside">
+                    <h1>2015</h1>
+                    <p>
+                        For a birthday, I had received a coupon to a local bookstore with which I had bought a book on
+                        Scratch (I was 8) and Python.<br /><br />
+                        It taught the basics of programming and kickstarted my passion in something other than
+                        black-on-aqua headers and Python is now my primary language.
+                    </p>
+                </div>
+            </div>
+            <div class="timeline-circle">
+                <img src="nodelogo.png" alt="Node.js Logo"/>
+                <div class="timeline-circle-inside">
+                    <h1>2017/2019</h1>
+                    <p>
+                        I discovered the (at the time) very foreign language in 2017 known as Javascript and using
+                        online tutorials managed to memorize the <code>document.getElementById</code>s and other DOM
+                        APIs required to make my code run.
+                        <br /><br />
+                        In 2019, I made a couple of basic games in Q5.js, which I still regard as a good wrapper for
+                        WebGl, but have moved on from. Eventually, I moved onto Node.js and made a HTTP server. I learnt
+                        React (Native), in brief too, although function components were off my radar.
+                        <br /><br />
+                        In 2020, I discovered Next.js and Typescript. I made a couple of unfinished Next.js projects
+                        before discovering the framework Remix, which combines the backend and frontend and implements
+                        features like nested routes.
+                    </p>
+                </div>
+            </div>
+
+            <div class="timeline-circle">
+                <img src="clogo.png" alt="C Logo"/>
+                <div class="timeline-circle-inside">
+                    <h1>2020</h1>
+                    <p>For my generation to learn C/C++ sounds like a step back, but I had interests beyond the
+                        high-level world. I was interested in how computers work on a fundamental level, and its nearly
+                        impossible to learn that from dynamically typed languages like JS and Python. With a handful of
+                        free time during the quarantine I sought to embark on the arduous journey of managing my own
+                        memory. I learnt the basic syntax and standard library using WSL as my compilation environment.
+                        Eventually I moved onto Assembly (look below) which opened my eye to abstracted away features
+                        like registers.</p>
+                </div>
+            </div>
+            <div class="timeline-circle">
+                <img src="nasmlogo.svg" alt="NASM Logo"/>
+                <div class="timeline-circle-inside">
+                    <h1>2021</h1>
+                    <p>After falling down the rabbit hole of low level programming, Assembly was the hard ground I
+                        landed on. Using nasm as my assembler, I learnt x86 Intel Assembly. It started with OS
+                        Development, and I learnt 16-bit Real Mode, then moved onto 32-bit Protected Mode, then I just
+                        moved to C at that point. <br /><br />
+                        In late 2022, I finally plucked up the courage to write assembly for Linux. I made a few
+                        programs and plan to continue working on it.</p>
+                </div>
+            </div>
+
+        </div>
+    </div>
+    <div id="pt3">
+        <div>
+            <h1>Projects</h1>
+            <div>
+                <div class="proj-cont">
+                    <h2>Constant Pool Editor <span class="language-span">Python</span></h2>
+                    <p>A tool to edit the constant pool of a Java class</p>
+                    <a href="https://github.com/AaravMalani/ConstantPool-Editor"><img
+                            src="https://img.shields.io/badge/Github-181717?logo=github&style=for-the-badge"
+                            class="shields-logo" alt="Github Logo"/></a>
+
+
+                </div>
+                <div class="proj-cont">
+                    <h2>AKBS <span class="language-span">Python</span></h2>
+                    <p>A super quick build system for C, C++ and ASM</p>
+                    <a href="https://github.com/akbs-org/akbs"><img
+                            src="https://img.shields.io/badge/Github-181717?logo=github&style=for-the-badge"
+                            class="shields-logo" alt="Github Logo" /></a>
+                    <a href="https://pypi.org/project/akbs/"><img
+                            src="https://img.shields.io/badge/PyPI-3775A9?logo=pypi&style=for-the-badge&logoColor=white"
+                            class="shields-logo" alt="PyPI Logo"/></a>
+                </div>
+                <div class="proj-cont">
+                    <h2>AKBS VSCode Extension <span class="language-span">Javascript</span></h2>
+                    <p>A VSCode extension for AKBS scripts</p>
+                    <a href="https://github.com/akbs-org/akbs-vscode"><img
+                            src="https://img.shields.io/badge/Github-181717?logo=github&style=for-the-badge"
+                            class="shields-logo" alt="Github Logo" /></a>
+                    <a href="https://marketplace.visualstudio.com/items?itemName=AaravMalani.akbs"><img
+                            src="https://img.shields.io/badge/VSCode-007ACC?logo=visualstudiocode&style=for-the-badge"
+                            class="shields-logo" alt="VSCode marketplace Logo"/></a>
+                </div>
+                <div class="proj-cont">
+                    <h2>PlugAPI <span class="language-span">Python</span></h2>
+                    <p>A lightweight, speedy HTTP(S) framework</p>
+                    <a href="https://github.com/AaravMalani/PlugAPI"><img
+                            src="https://img.shields.io/badge/Github-181717?logo=github&style=for-the-badge"
+                            class="shields-logo" alt="Github Logo" /></a>
+                    <a href="https://pypi.org/project/plugapi/"><img
+                            src="https://img.shields.io/badge/PyPI-3775A9?logo=pypi&style=for-the-badge&logoColor=white"
+                            class="shields-logo" alt="PyPI Logo"/></a>
+                </div>
+                <div class="proj-cont">
+                    <h2>libjson <span class="language-span">C</span></h2>
+                    <p>A light-weight feature complete JSON parser in C</p>
+                    <a href="https://github.com/AaravMalani/libjson"><img
+                            src="https://img.shields.io/badge/Github-181717?logo=github&style=for-the-badge"
+                            class="shields-logo" alt="Github Logo" /></a>
+                </div>
+                <div class="proj-cont">
+                    <h2>frange <span class="language-span">Python</span></h2>
+                    <p>An alternative to range with support for floats</p>
+                    <a href="https://github.com/AaravMalani/frange"><img
+                            src="https://img.shields.io/badge/Github-181717?logo=github&style=for-the-badge"
+                            class="shields-logo" alt="Github Logo" /></a>
+                    <a href="https://pypi.org/project/frange/"><img
+                            src="https://img.shields.io/badge/PyPI-3775A9?logo=pypi&style=for-the-badge&logoColor=white"
+                            class="shields-logo" alt="PyPI Logo" /></a>
+                </div>
+                <div class="proj-cont">
+                    <h2>htmlparse <span class="language-span">Python</span></h2>
+                    <p>A basic HTML parser in Python</p>
+                    <a href="https://github.com/AaravMalani/htmlparse"><img
+                            src="https://img.shields.io/badge/Github-181717?logo=github&style=for-the-badge"
+                            class="shields-logo" alt="Github Logo"/></a>
+                    <a href="https://pypi.org/project/parser-html/"><img
+                            src="https://img.shields.io/badge/PyPI-3775A9?logo=pypi&style=for-the-badge&logoColor=white"
+                            class="shields-logo" alt="PyPI Logo"/></a>
+                </div>
+
+            </div>
+        </div>
+    </div>
+    <div id="pt4">
+        <div>
+            <h1>
+                Contact Me
+            </h1>
+            <a href="https://linkedin.com/in/aaravm">
+                <img src="https://img.shields.io/badge/LinkedIn-335?style=for-the-badge&logo=linkedin" alt="Linkedin Logo" class="shields-logo"/>
+            </a>
+            <a href="https://github.com/AaravMalani">
+                <img src="https://img.shields.io/badge/Github-333?logo=github&style=for-the-badge" alt="Github Logo" class="shields-logo"/>
+            </a>
+            <a href="https://twitter.com/@MalaniAarav">
+                <img src="https://img.shields.io/badge/Twitter-aqua?logo=twitter&style=for-the-badge" alt="Twitter Logo" class="shields-logo"/>
+            </a>
+            
+            <img src="https://img.shields.io/badge/Discord-5865f2?logo=discord&style=for-the-badge&logoColor=white" alt="Discord Logo" class="shields-logo" onclick="navigator.clipboard.writeText('AaravMalani#5945').then((res)=>document.getElementsByClassName('copied-div')[0].classList.add('oncopy')).then(()=>setTimeout(()=>document.getElementsByClassName('copied-div')[0].classList.remove('oncopy'),1000))"/>
+            <div class="copied-div">
+                Copied
+            </div>
+            
+            <a href="mailto:aarav.malani@gmail.com">
+                <img src="https://img.shields.io/badge/Email-red?logo=gmail&style=for-the-badge&logoColor=white" alt="Gmail Logo" class="shields-logo"/>
+            </a>
+
+        </div>
+    </div>
+    <footer>
+        Copyright &copy; 2023 Aarav Malani
+    </footer>
+    <script>
+        let isdoing = {};
+        function onhover(ele, txt) {
+            if (isdoing[txt]) {
+                return;
+            }
+            isdoing[txt] = true;
+            let i = 0;
+            let id = setInterval(() => { ele.innerHTML += txt[i++]; if (i == txt.length) { clearInterval(id); } }, 100);
+
+        }
+        function oncick() {
+            document.getElementById('small-screen-menu').style.left = { '-103%': '0', '0px': '-103%', '': '0' }[document.getElementById('small-screen-menu').style.left];
+
+        }
+
+        const observer = new IntersectionObserver((eles) => {
+            eles.forEach((entry) => {
+                if (entry.target.id == 'pt2' && entry.isIntersecting) {
+                    document.getElementById('timeline').style.opacity = '1';
+                }
+            });
+        }, { threshold: 0.3 });
+        observer.observe(document.getElementById(
+            'pt2'
+        ))
+        const observer2 = new IntersectionObserver((eles) => {
+            eles.forEach(async (entry) => {
+                if (entry.isIntersecting) {
+                    entry.target.style.opacity = '1';
+                }
+            })
+        })
+        for (let a of document.getElementById('timeline').children) {
+            observer2.observe(a)
+        }
+    </script>
+</body>
+
+</html>

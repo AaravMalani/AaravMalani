@@ -59,6 +59,9 @@ I'm a fifteen year old independent (as should be) developer fluent in numerous d
 - [htmlparse](https://github.com/AaravMalani/htmlparse) `[Python]` - A basic HTML parser in Python
 - [lexmath](https://github.com/AaravMalani/lexmath) `[C]` - A lexer/tokenizer for mathematical expressions
 - [bencoder](https://github.com/AaravMalani/bencoder) `[C]` - A parser for BitTorrent .torrent files
+- [webscraper](https://github.com/AaravMalani/webscraper) `[Python]` - A web scraper using SQLite and requests_html
+- [vectorlib](https://github.com/AaravMalani/vectorlib) `[Python]` - A library to create and manage vectors in Python.
+
 
 ## Contributed to
 - [Basic Math Operations](https://github.com/avighnac/basic_math_operations) `[C/C++/Assembly]` - A biginteger library written in Assembly and C.
@@ -82,7 +85,7 @@ I'm a fifteen year old independent (as should be) developer fluent in numerous d
 [github-url]: https://github.com/AaravMalani
 [twitter-shield]: https://img.shields.io/badge/Twitter-aqua?logo=twitter&style=for-the-badge
 [twitter-url]: https://twitter.com/@MalaniAarav
-[discord-shield]: https://img.shields.io/badge/Discord-Aarav%20Malani%235945-5865f2?logo=discord&style=for-the-badge&logoColor=white&labelColor=23272A
+[discord-shield]: https://img.shields.io/badge/Discord-aaravm_-5865f2?logo=discord&style=for-the-badge&logoColor=white&labelColor=23272A
 [discord-url]: https://discord.com/users/1005358029815955456
 [gmail-shield]: https://img.shields.io/badge/Email-red?logo=gmail&style=for-the-badge&logoColor=white
 [gmail-url]: mailto:aarav.malani@gmail.com

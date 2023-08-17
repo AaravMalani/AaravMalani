@@ -13,9 +13,9 @@ I'm a fifteen year old independent (as should be) developer fluent in numerous d
       - [x] Bukkit/Spigot/Paper Plugins
       - [x] Forge Mods
       - [ ] Client Development via MCP
-- [ ] **C/C++**
+- [x] **C/C++**
     - [x] C
-    - [ ] C++
+    - [x] C++
 - [ ] **Assembly**
     - [x] x86
         - [x] 16-Bit BIOS Operating System

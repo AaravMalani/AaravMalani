@@ -61,6 +61,7 @@ I'm a fifteen year old independent (as should be) developer fluent in numerous d
 - [bencoder](https://github.com/AaravMalani/bencoder) `[C]` - A parser for BitTorrent .torrent files
 - [webscraper](https://github.com/AaravMalani/webscraper) `[Python]` - A web scraper using SQLite and requests_html
 - [vectorlib](https://github.com/AaravMalani/vectorlib) `[Python]` - A library to create and manage vectors in Python.
+- [tmengine](https://github.com/AaravMalani/tmengine) `[Python]` - A TextMate grammar engine in Python.
 
 
 ## Contributed to

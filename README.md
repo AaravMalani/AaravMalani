@@ -62,7 +62,7 @@ I'm a fifteen year old independent (as should be) developer fluent in numerous d
 - [webscraper](https://github.com/AaravMalani/webscraper) `[Python]` - A web scraper using SQLite and requests_html
 - [vectorlib](https://github.com/AaravMalani/vectorlib) `[Python]` - A library to create and manage vectors in Python.
 - [tmengine](https://github.com/AaravMalani/tmengine) `[Python]` - A TextMate grammar engine in Python.
-
+- [powerengine](https://github.com/AaravMalani/powerengine) `[Python]` - A library which calculates signals and electricity.
 
 ## Contributed to
 - [Basic Math Operations](https://github.com/avighnac/basic_math_operations) `[C/C++/Assembly]` - A biginteger library written in Assembly and C.

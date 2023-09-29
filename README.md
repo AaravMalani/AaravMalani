@@ -63,6 +63,8 @@ I'm a fifteen year old independent (as should be) developer fluent in numerous d
 - [vectorlib](https://github.com/AaravMalani/vectorlib) `[Python]` - A library to create and manage vectors in Python.
 - [tmengine](https://github.com/AaravMalani/tmengine) `[Python]` - A TextMate grammar engine in Python.
 - [powerengine](https://github.com/AaravMalani/powerengine) `[Python]` - A library which calculates signals and electricity.
+- [ChordTransposer](https://github.com/AaravMalani/ChordTransposer) `[HTML]` - A tool to transpose musical chords.
+- [regexbuilder](https://github.com/AaravMalani/regexbuilder) `[Python]` - A functional wrapper for RegEx in Python.
 
 ## Contributed to
 - [Basic Math Operations](https://github.com/avighnac/basic_math_operations) `[C/C++/Assembly]` - A biginteger library written in Assembly and C.

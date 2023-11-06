@@ -1,7 +1,7 @@
 <p id="readme-top"></p>
 
 ## About Me
-I'm a fifteen year old independent (as should be) developer fluent in numerous different languages residing in the soon-to-be most populated country.
+I'm a sixteen year old independent developer fluent in numerous different languages.
 
 ## Languages learnt
 - [x] **Python**
@@ -68,6 +68,11 @@ I'm a fifteen year old independent (as should be) developer fluent in numerous d
 
 ## Contributed to
 - [Basic Math Operations](https://github.com/avighnac/basic_math_operations) `[C/C++/Assembly]` - A biginteger library written in Assembly and C.
+
+## Certifications
+- [CS50x](https://certificates.cs50.io/2d7d5c8e-1e46-4f36-8e0b-d10eecd66923.pdf) `[Python, C, SQL, HTML]` - Oct 2023 
+- [CS50P](https://cs50.harvard.edu/certificates/bb1f0a81-1a4c-49cf-a8ae-b84ed29efb35) `[Python]` - Aug 2023
+- [Cybersecurity for Everyone](https://www.coursera.org/account/accomplishments/certificate/54446JZTKC37) - Aug 2023
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 

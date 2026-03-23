@@ -1,7 +1,7 @@
 <p id="readme-top"></p>
 
 ## About Me
-I'm a seventeen year old developer fluent in numerous different languages studying Computer Science at National University of Singapore.
+I'm a developer fluent in numerous different languages studying Computer Science at National University of Singapore.
 
 ## Languages learnt
 - [x] **Python**
